@@ -15,3 +15,6 @@ The NFL, player analysis and fantasy football are constantly evolving. I wanted 
 
 Why 24 players per year?
 The most common league size in fantasy football is 12-teams and the most common starting line-up size has two starting wide receiver slots. As a result, the most common league will be starting two wide receivers each week, making the league have 24 fantasy relevant wide receivers each week. 
+
+My initial exploratory data analysis is contained in the Jupyter Notebook NFL WRs.ipynb . As expected, the most frequent drafted round for top receivers was the first round. Interestingly though, was the domination of Day 1 and Day 2 picks (rounds 1, 2 and 3) vs the field of rounds 4-7 and undrafted players where 81% of wide receivers with finishes in the top 24 were originally drafted in rounds 1, 2 and 3. This helps the argument for those that argue the most important indicator for future and prolonged fantasy success is draft capital. Donut charts were created from these findings and saved as PNGs to make them shareable.
+
