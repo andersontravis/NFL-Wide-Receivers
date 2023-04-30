@@ -18,3 +18,5 @@ The most common league size in fantasy football is 12-teams and the most common 
 
 My initial exploratory data analysis is contained in the Jupyter Notebook NFL WRs.ipynb . As expected, the most frequent drafted round for top receivers was the first round. Interestingly though, was the domination of Day 1 and Day 2 picks (rounds 1, 2 and 3) vs the field of rounds 4-7 and undrafted players where 81% of wide receivers with finishes in the top 24 were originally drafted in rounds 1, 2 and 3. This helps the argument for those that argue the most important indicator for future and prolonged fantasy success is draft capital. Donut charts were created from these findings and saved as PNGs to make them shareable.
 
+In the course of the EDA, I also found that a typo was made for Christian Kirk's drafted team in the 2022 CSV file. I have since corrected the error in the file in this repository and for future analysis. I left the initial typo in the Jupyter Notebook to demonstrate how I would find and correct incorrect data within Python.
+
